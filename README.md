@@ -1,2 +1,4 @@
 # GitEjerciciosGuia
+
 primer ejercicio
+Mechi
