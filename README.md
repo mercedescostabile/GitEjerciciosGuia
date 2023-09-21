@@ -1,11 +1,6 @@
 # GitEjerciciosGuia
 
 primer ejercicio
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-Mechi
-=======
 
 
 Holi, soy Mica, si se hacen mucho la cabeza con el uso de Git bash, porque es muy probable que mucho de los comandos no los recuerden, pueden optar por alternativas como https://desktop.github.com
@@ -13,14 +8,9 @@ Holi, soy Mica, si se hacen mucho la cabeza con el uso de Git bash, porque es mu
 O si, tienen visual studio code, pueden descargar las extensiones de gitLens ♥
 
 Besitos 
->>>>>>> origin/mica
-=======
-Mayt
 Mayt
 
 Carmela Márquez
 main
->>>>>>> origin/Mayt
-=======
+
 Manza
->>>>>>> origin/Manza
