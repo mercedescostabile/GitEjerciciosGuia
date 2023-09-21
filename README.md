@@ -3,6 +3,7 @@
 primer ejercicio
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 Mechi
 =======
 
@@ -20,3 +21,6 @@ Mayt
 Carmela Márquez
 main
 >>>>>>> origin/Mayt
+=======
+Manza
+>>>>>>> origin/Manza
