@@ -2,6 +2,7 @@
 
 primer ejercicio
 <<<<<<< HEAD
+<<<<<<< HEAD
 Mechi
 =======
 
@@ -12,3 +13,10 @@ O si, tienen visual studio code, pueden descargar las extensiones de gitLens ♥
 
 Besitos 
 >>>>>>> origin/mica
+=======
+Mayt
+Mayt
+
+Carmela Márquez
+main
+>>>>>>> origin/Mayt
